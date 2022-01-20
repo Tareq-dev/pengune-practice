@@ -1,0 +1,23 @@
+* {
+  font-family: "Bebas Neue", cursive;
+}
+.font-2 {
+  font-family: "Roboto", sans-serif;
+}
+
+.main-bg {
+  background-color: #fffbf0;
+}
+button {
+  background-color: #a4bc46;
+  border: none;
+  border-radius: 55px;
+  color: #fff;
+}
+.image-bg {
+  background-color: #f1f1f1;
+  border-radius: 35px;
+}
+.orrange-color {
+  color: #fabe4c;
+}
